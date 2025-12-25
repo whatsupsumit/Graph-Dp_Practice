@@ -57,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/whatsupsumit/Graph-Dp_Practice/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/whatsupsumit/Graph-Dp_Practice/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0540-single-element-in-a-sorted-array](https://github.com/whatsupsumit/Graph-Dp_Practice/tree/master/0540-single-element-in-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/whatsupsumit/Graph-Dp_Practice/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
